@@ -1,0 +1,40 @@
+.d1{
+    color: brown;
+    text-align: center;
+    text-align-last: left;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+
+body{
+    background-color: bisque;
+}
+
+.img{
+    width: 600px;
+    height: 600px;
+    border-radius: 200px;
+    margin-top: 150;
+    margin-right: 150px;
+    vertical-align: middle;
+    position: fixed;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.ul{
+    list-style-type: circle;
+    color: brown;
+}
+
+.ol{
+    list-style-type: upper-roman;
+    color: brown;
+} 
+.txt{
+    color: brown;
+}
+
